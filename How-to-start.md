@@ -1,6 +1,6 @@
-# Deploying Azure Sentinel: Step-by-Step Guide
+# How to start: Step-by-Step Guide
 
-## 3.2.5. Creating a Log Analytics Workspace and Activating Azure Sentinel
+## Creating a Log Analytics Workspace and Activating Azure Sentinel
 
 To deploy Azure Sentinel, it's recommended to create a dedicated Log Analytics workspace rather than using an existing one. Here’s a simplified guide to get started:
 
@@ -31,7 +31,7 @@ Once Azure Sentinel is added to your Log Analytics workspace, you can configure 
 - Access "Settings" from the left navigation pane in Azure Sentinel.
 
   <p align="center">
-    <img src="images/param avancés.png" alt="Workspace Settings in Sentinel" width="600"/>
+    <img src="images/param avancés.png" alt="Workspace Settings in Sentinel" width="1000"/>
   </p>
 
 #### **Cost Optimization and Data Retention**
