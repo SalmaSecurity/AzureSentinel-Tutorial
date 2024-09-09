@@ -1,4 +1,4 @@
-# Azure Sentinel Deployment Tutorial
+# Azure Sentinel Deployment: Step-by-Step Guide
 ## Description
 This project explores and implements Azure Sentinel, a cloud-based security event management tool. The primary goal is to show you how to deploy Azure Sentinel in a corporate environment and assess its effectiveness in enhancing threat detection and incident response.
 
