@@ -13,6 +13,9 @@ The project begins with an introduction to Azure Sentinel and its cybersecurity-
 ## What is Azure Sentinel?
 Azure Sentinel is a scalable, cloud-native solution that provides intelligent security analytics and threat intelligence across the enterprise. It offers advanced security event and information management (SIEM) capabilities to enable proactive threat hunting, streamlined incident response, and comprehensive threat intelligence integration.
 
+![Azure Sentinel logo](images/Azure_sentinel_high_res_logo.png)
+
+
 ## Project Walk-through
 ### 1. Why using Azure Sentinel
 Security Operations (SecOps) are a critical sub-discipline within the information security industry. They act as the central hub for identifying and responding to cybersecurity threats, from initial alert triage to escalation handling, malware analysis, threat intelligence, and threat hunting.
