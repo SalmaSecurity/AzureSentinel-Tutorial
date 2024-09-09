@@ -30,7 +30,7 @@ However, many SecOps rely on on-premises infrastructure, which limits scalabilit
   
 - **Alert Management:** The surge in alerts exacerbates the problem. As threat detection capabilities improve, the number of generated alerts increases significantly, making it difficult to distinguish genuine threats from false positives in the flood of notifications. This strains already overtaxed resources and increases the risk of missing real threats.
 
-![Azure Sentinel features](images/images/AzureSentinelFeatures.PNG)  
+![Azure Sentinel features](images/AzureSentinelFeatures.PNG)  
 
 ### 2. Scope and Objectives
 To address these challenges, many companies turn to advanced threat management solutions like Azure Sentinel. However, the effectiveness of these solutions heavily depends on their implementation and adaptation to the specific needs of each organization. The central objective of this study is to explore Azure Sentinel in depth, with a focus on deploying it within existing corporate environments. We aim to assess the utility of Azure Sentinel in enhancing threat detection and incident response while addressing the challenges related to platform management, threat intelligence integration, and multi-source data collection.
