@@ -39,13 +39,8 @@ However, many SecOps rely on on-premises infrastructure, which limits scalabilit
 To address these challenges, many companies turn to advanced threat management solutions like Azure Sentinel. However, the effectiveness of these solutions heavily depends on their implementation and adaptation to the specific needs of each organization. The central objective of this study is to explore Azure Sentinel in depth, with a focus on deploying it within existing corporate environments. We aim to assess the utility of Azure Sentinel in enhancing threat detection and incident response while addressing the challenges related to platform management, threat intelligence integration, and multi-source data collection.
 
 ## Repository Structure
-- 'README.md' : Overview and general information about the project.
-- 'connecting-collectors.md' : Steps and screenshots on connecting data sources to Azure Sentinel.
-- 'setting-rules.md' : Guide on setting up and customizing alert rules within Sentinel.
-- 'incident-management.md' : Explanation of incident management processes, including escalations and playbooks.
-- 'dashboards-and-visualizations.md' : Details on setting up dashboards and visualizations for monitoring and analysis.
-  
 
+  
 1. [How to Start](How-to-start.md)
 2. [Gather Data: Connectors](Connectors.md)
 3. [Set Detection Rules](Detection.md)
