@@ -45,3 +45,9 @@ To address these challenges, many companies turn to advanced threat management s
 - 'incident-management.md' : Explanation of incident management processes, including escalations and playbooks.
 - 'dashboards-and-visualizations.md' : Details on setting up dashboards and visualizations for monitoring and analysis.
   
+
+1. [How to Start](How-to-start.md)
+2. [Gather Data: Connectors](Connectors.md)
+3. [Set Detection Rules](Detection.md)
+4. [How to Investigate](Investigation.md)
+5. [Response: Playbooks](Threat_Hunting.md)
